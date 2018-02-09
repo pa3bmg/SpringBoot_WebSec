@@ -1,0 +1,6 @@
+http://www.mkyong.com/spring-boot/spring-boot-spring-security-thymeleaf-example/
+
+De password in het example moeten encrypted zijn
+Work arround zie:
+
+https://www.harinathk.com/spring/no-passwordencoder-mapped-id-null/
