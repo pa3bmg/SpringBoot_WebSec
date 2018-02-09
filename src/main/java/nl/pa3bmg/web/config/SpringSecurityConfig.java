@@ -45,6 +45,7 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
         //Web resources
         web.ignoring().antMatchers("/css/**");
         web.ignoring().antMatchers("/js/**");
+        web.ignoring().antMatchers("/webjars/**");
         web.ignoring().antMatchers("/images/**");
     }
     
