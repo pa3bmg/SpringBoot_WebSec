@@ -6,7 +6,7 @@
 	<groupId>nl.pa3bmg.web</groupId>
 	<artifactId>SpringBoot_WebServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>SpringBoot_WebServer</name>
 	<description>Demo of web app</description>
